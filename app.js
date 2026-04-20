@@ -1,7 +1,7 @@
 // AULA ------------------
 alert('Boas Vindas ao jogo do número secreto'); 
 // você pode colocar *10, 100, 1000, dependendo da quantidade de números que você queira que o jogador possa chutar.
-let numeroMax = 500;
+let numeroMax = 100;
 let numeroSecreto = parseInt(Math.random() * numeroMax + 1); 
 // let numeroSecreto = parseInt(Math.random() * 100 + 1); 
 // let chute = prompt('escolha um número entre 1 e 10');
